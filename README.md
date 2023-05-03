@@ -22,7 +22,7 @@ I built and compiled my first test script in the Linux terminal using the comman
 
 `./ns3 run scratch/myfirst`
 
-Program completed successfully:
+The program completed successfully.
 
 ![image](https://user-images.githubusercontent.com/129685366/236002989-8a913c5f-d6fb-46dd-90da-093d36853b5c.png)
 
