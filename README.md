@@ -22,11 +22,11 @@ I built and compiled my first test script in the Linux terminal using the comman
 
 `./ns3 run scratch/myfirst`
 
-The result was satisfactory:
+Program completed successfully:
 
 ![image](https://user-images.githubusercontent.com/129685366/236002989-8a913c5f-d6fb-46dd-90da-093d36853b5c.png)
 
-After reading and executing all of the scripts offered in the [Tutorial](https://www.nsnam.org/docs/release/3.38/tutorial/ns-3-tutorial.pdf), I proceeded to familiarize myself with the [Model Library](https://www.nsnam.org/docs/release/3.38/models/ns-3-model-library.pdf).
+After I read and executed all of the scripts offered in the [Tutorial](https://www.nsnam.org/docs/release/3.38/tutorial/ns-3-tutorial.pdf), I proceeded to familiarize myself with the [Model Library](https://www.nsnam.org/docs/release/3.38/models/ns-3-model-library.pdf).
 The script developed on the basis of the Library Model is located [here](https://github.com/PROKOFEV-DANIIL/Task-for-AME-intern-position/blob/main/ltetest.cc).
 
 This script has output values for DL and UL for RLC and MAC levels, they are also located [here](https://github.com/PROKOFEV-DANIIL/Task-for-AME-intern-position/tree/main/Computing_Throughput), but for convenience I'll give an example here(file "DlRlcStats.txt"):
